@@ -3,11 +3,13 @@
 **Academic Year:** 2026–27  
 **Semester:** VII  
 **Subject Code:** CSDL7013  
-**Course:** NLP Lab Experiments
+**Course:** Natural Language Processing Lab
+
+---
 
 ## About This Repository
 
-This repository contains Python implementations of Natural Language Processing (NLP) lab experiments based on the 2026–27 syllabus. It includes practical notebooks, Python scripts, and supporting documentation for NLP concepts, language processing, and Large Language Models (LLMs).
+This repository contains Python implementations of Natural Language Processing (NLP) lab experiments based on the 2026–27 syllabus. It includes Google Colab notebooks, Python scripts, and supporting documentation covering fundamental NLP techniques, language processing, and Large Language Models (LLMs).
 
 ## Technologies & Libraries
 
@@ -37,7 +39,7 @@ This repository contains Python implementations of Natural Language Processing (
 
 ## Language Processing
 
-The experiments cover English and regional language processing, including Hindi and one additional regional language, wherever specified in the syllabus.
+The experiments cover English and regional language processing, including Hindi and one additional regional language, as specified in the syllabus.
 
 ## Repository Contents
 
@@ -48,19 +50,19 @@ The experiments cover English and regional language processing, including Hindi 
 
 ## How to Run
 
-1. Open the required `.ipynb` notebook.
-2. Click **Open in Colab** or download it.
-3. Install the required Python libraries.
+1. Open the required Jupyter notebook (`.ipynb`).
+2. Select **Open in Colab** to run it in Google Colab.
+3. Install the required Python libraries, if needed.
 4. Execute the notebook cells sequentially.
-5. Refer to the supporting PDFs for experiment requirements.
+5. Refer to the supporting PDFs for experiment instructions.
 
 ## Learning Objectives
 
-- Understand fundamental NLP techniques.
-- Implement text processing and linguistic analysis.
-- Explore finite-state models, stemming, N-grams, POS tagging, and NER.
-- Experiment with regional language processing.
-- Explore modern LLMs and build an NLP mini project.
+- Understand fundamental NLP concepts and techniques.
+- Implement text preprocessing and linguistic analysis.
+- Explore finite-state models, stemming, N-gram models, POS tagging, and NER.
+- Perform English and regional language processing.
+- Explore Large Language Models and develop an NLP mini-project.
 
 ## Disclaimer
 
@@ -68,6 +70,8 @@ This repository is intended for educational and academic reference purposes.
 
 ---
 
-**Course:** NLP Lab Experiments  
+**Created  by:** Nidhi Sinha  
+**Program:** B.E. Computer Engineering (COMPS)  
+**Subject & Practical In-Charge:** Prof. Deepti Chandran  
 **Academic Year:** 2026–27  
 **Subject Code:** CSDL7013
